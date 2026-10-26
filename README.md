@@ -177,5 +177,6 @@ python -m h3colab.cli setup --profile l4 --store drive --download
 ```powershell
 python tests\run_tests.py          # 71 項（含對真實 ComfyUI 的活體驗證）
 python tools\verify_notebook.py    # notebook 結構 + 內嵌模組一致
+python tools\scan_secrets.py       # 推送前掃金鑰（這個 repo 是 public）
 python tools\e2e_local_test.py     # 端到端（需要本機 ComfyUI 在 8188）
 ```
