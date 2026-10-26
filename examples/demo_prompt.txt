@@ -1,0 +1,9 @@
+Realistic live-action cinematic look: a Taiwanese female presenter in a navy blazer, a modern broadcast studio, dark background, glowing desk, 50mm lens, shallow depth of field, soft key light from the left
+
+Storyboard:
+[0s-4.6s] the presenter looks straight into the lens and opens her mouth to speak, locked tripod, medium shot
+[4.6s-9.1s] she raises one hand and points toward the screen behind her, locked tripod, medium shot
+
+Audio: clear female Mandarin voice, spoken from <Audio 1>, lip movements and jaw synchronized to <Audio 1>, steady face, no extra talking.
+
+No text, logos or watermarks.

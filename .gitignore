@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 執行產物
+out/
+_tmp_*/
+*.log
+*.bak_*
+
+# ComfyUI 權重/輸出不要進來
+models/
+output/
+input/
+
+# 編輯器 / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
